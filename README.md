@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **react+django**
 
-- 🌱 I’m currently learning **reactjs ,node js ,graphql and databases**
+- 🌱 I’m currently learning **reactjs ,node js and databases**
 
 - 👯 I’m looking to collaborate on [gamoby](github.com/gamoby)
 
