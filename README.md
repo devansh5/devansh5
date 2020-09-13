@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **reactjs ,node js and databases**
 
-- 👯 I’m looking to collaborate on [gamoby](github.com/gamoby)
+- 👯 I’m looking to collaborate on [gamoby](gamoby)
 
 - 👨‍💻 All of my projects are available at [github.com/devansh5](github.com/devansh5)
 
