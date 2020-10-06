@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Chaubey</h1>
-<h3 align="center">Learner ,Full Stack Developer </h3>
+<h3 align="center">Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh5" alt="devansh5" /> </p>
 
