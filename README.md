@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **reactjs ,node js and databases**
 
-- 👯 I’m looking to collaborate on [gamoby](devansh5/Gamoby_Site/)
+- 👯 I’m looking to collaborate on [gamoby](https://github.com/devansh5/Gamoby_Site)
 
-- 👨‍💻 All of my projects are available at [github.com/devansh5](github.com/devansh5)
+- 👨‍💻 All of my projects are available at [github.com/devansh5](https://github.com/devansh5?tab=repositories)
 
 - 📝 I regulary write articles on [https://iq.opengenus.org/author/devansh-chaubey/](https://iq.opengenus.org/author/devansh-chaubey/)
 
