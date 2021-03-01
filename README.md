@@ -13,4 +13,5 @@
 <p align="center">
 <a href="https://dev.to/devansh5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devansh5" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/devansh5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devansh5" height="30" width="30" /></a>
+  <a href="https://iq.opengenus.org/author/devansh-chaubey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/.svg" alt="opengenus" height="30" width="30" /></a>
 </p>
